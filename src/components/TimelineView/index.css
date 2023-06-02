@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.chrono-container {
+  width: 400px;
+  height: 600px;
+}
+
+.heading {
+  text-align: center;
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 2.5;
+  margin: 0px;
+  font-weight: 400;
+}
